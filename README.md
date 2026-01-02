@@ -5,4 +5,5 @@
 - [☺️ about me:](https://abhisheksri000.vercel.app/)
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I am a software developer with a natural nag for problem-solving and I am funny too 😉
-
+---
+- 📖 [Knowledge should be free, like everything; it also deserves freedom, it should not be chained by the one who could buy it. Knowledge belongs to everyone ](https://github.com/abhisheksrivastava000/open-archive-collective/blob/main/freedom%20manifesto.pdf)
